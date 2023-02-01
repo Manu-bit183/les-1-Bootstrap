@@ -1,0 +1,9 @@
+.container {
+    background-color: lightgray;
+}
+.imga {
+    float: right;
+}
+.card {
+    background-color: rgb(167, 180, 167);
+}
