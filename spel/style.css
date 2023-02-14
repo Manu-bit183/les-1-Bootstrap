@@ -1,9 +1,39 @@
 .container {
     background-color: lightgray;
 }
-.imga {
+.img {
     float: right;
 }
+.card-group {
+    background-color: rgb(195, 255, 195);
+    padding: 12px;
+}
+h1 {
+    text-align: center;
+}
+#p {
+    text-align: right;
+}
+p {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+#nav-green {
+    color: lightgreen;
+    font-size: xx-large;
+}
+.carousel-caption {
+    transform: translateY(-50%);
+    bottom: 0;
+    top: 60%;
+}
+.card-body {
+    padding: 5px;
+    background-color: rgb(195, 255, 195);
+}
 .card {
-    background-color: rgb(167, 180, 167);
+    padding: 10px;
+    margin: 10px;
 }
