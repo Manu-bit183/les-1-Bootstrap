@@ -4,6 +4,9 @@
 .img {
     float: right;
 }
+#img {
+    float: right;
+}
 .card-group {
     background-color: rgb(195, 255, 195);
     padding: 12px;
