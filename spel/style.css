@@ -30,7 +30,11 @@ h3 {
 .carousel-caption {
     transform: translateY(-50%);
     bottom: 0;
+    background-color: none;
     top: 60%;
+}
+.container-fluid {
+    font-size: medium;
 }
 .card-body {
     padding: 5px;
