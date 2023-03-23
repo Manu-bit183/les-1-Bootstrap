@@ -1,3 +1,6 @@
+* {
+    display:grid;
+}
 .container {
     background-color: lightgray;
 }
